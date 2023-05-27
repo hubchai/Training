@@ -1,8 +1,8 @@
 
-
+dev1 changes in machine 1
 
 hi
-hello
+hellp
 good morning
 hy
 kyt
